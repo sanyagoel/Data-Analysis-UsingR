@@ -2,19 +2,31 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Overview](#overview)
+- [Installation](#installation)
 - [Data Cleaning Techniques](#data-cleaning-techniques)
 - [Models and Algorithms](#models-and-algorithms)
 - [Visualizing Outliers](#visualizing-outliers)
 - [Usage](#usage)
 - [References](#references)
 
-## Installation
-- Add instructions for installing the necessary libraries and dependencies.
-
 ## Overview
-- Provide a brief overview of your project, its purpose, and main features.
+- This project focuses on data cleaning using Python and aims to enhance the quality and reliability of a dataset. By applying various data cleaning techniques, the project preprocesses the data to handle missing values and outliers effectively. The ultimate goal is to improve the integrity of the dataset, enabling more accurate analysis and modeling.
+
+## Installation
+- To run this project, the following libraries are required:
+
+pandas
+numpy
+scikit-learn
+You can install these libraries using the following command:
+
+| Command                 | Description                                     |
+|-------------------------|-------------------------------------------------|
+| `pip install pandas`    | Install the pandas library                      |
+| `pip install numpy`     | Install the numpy library                       |
+| `pip install scikit-learn` | Install the scikit-learn library               |
+
 
 ## Data Cleaning Techniques
 - Describe the techniques used to clean the data, such as imputing missing values.
