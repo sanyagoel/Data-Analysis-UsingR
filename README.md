@@ -49,11 +49,11 @@ KNN Prediction: The K-nearest neighbors (KNN) algorithm is applied to predict mi
 
 ## Usage
 
-1. **Notebook**: The Python notebook `your_notebook.ipynb` contains the code for data cleaning and analysis. Open the notebook in Jupyter Notebook or Jupyter Lab to view and run the code. Make sure to have the required dependencies installed (see the "Installation" section).
+1. **Notebook**: The Python notebook `DSproject1cleaning.ipynb` contains the code for data cleaning and analysis. Open the notebook in Jupyter Notebook or Jupyter Lab to view and run the code. Make sure to have the required dependencies installed (see the "Installation" section).
 
 2. **Data Files**: The project includes the following data files:
-   - `raw_data.csv`: This file contains the raw data that was used for analysis.
-   - `processed_data.csv`: This file contains the cleaned and processed data after applying data cleaning techniques.
+   - `yrbss.csv`: This file contains the raw data that was used for analysis.
+   - `DSprocessed1.csv`: This file contains the cleaned and processed data after applying data cleaning techniques.
 
 3. **Running the Notebook**: To run the notebook, follow these steps:
    - Open the notebook in Jupyter Notebook or Jupyter Lab.
