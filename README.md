@@ -20,28 +20,11 @@ pandas
 numpy
 scikit-learn
 You can install these libraries using the following command:
-```bash
-# Installation
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/your-repository.git
-   ```
+  pip install pandas numpy scikit-learn
 
-2. Navigate to the project directory:
-   ```shell
-   cd your-repository
    ```
-
-3. Install the required dependencies:
-   ```shell
-   pip install -r requirements.txt
-   ```
-```
-
-```
 
 
 
