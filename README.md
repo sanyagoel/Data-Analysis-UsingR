@@ -17,8 +17,11 @@
 - To run this project, the following libraries are required:
 
 -pandas
+
 -numpy
+
 -scikit-learn
+
 You can install these libraries using the following command:
 
    ```shell
